@@ -1,0 +1,41 @@
+* Why is C called a mid-level programming language?
+* What is the use of printf() and scanf() functions?
+* What is the difference between the local variable and global variable in C?
+* What is the use of a static variable in C?
+* What is the use of the function in C?
+* What is the difference between call by value and call by reference in C?
+* What is recursion in C?
+* What is an array in C?
+* What is a pointer in C?
+* What is the usage of the pointer in C?
+* What is static memory allocation?
+* What is dynamic memory allocation?
+* What functions are used for dynamic memory allocation in C language?
+* What is the difference between malloc() and calloc()? 
+* What is the structure?
+* What is a union?
+* What is an auto keyword in C?
+* What is a token?
+* What is typecasting?
+* Write a program to print Fibonacci series without using recursion?
+* Write a program to swap two numbers without using the third variable?
+* Write a program to print Fibonacci series using recursion?
+* Write a program to check prime number in C Programming?
+* Write a program to print factorial of given number without using recursion?
+*  Write a program to print factorial of given number using recursion?
+* Write a program to check Armstrong number in C?
+* What is the function of s++ and ++s?
+* What is the difference between Call by Value and Call by Reference?
+* What is a stack?
+* Differentiate Source Codes from Object Codes
+*  What is a nested loop?
+* What is syntax error?
+* When is the “void” keyword used in a function?
+* What are basic data types supported in the C Programming Language?
+* What do you mean by the scope of the variable?
+* What is the use of static variables in C?
+* What is typedef in C?
+* What are header files and their uses?
+* What are the features of the C language?
+What is a union?
+The union is a user-defined data type that allows storing multiple types of data in asingle unit. However, it doesn't occupy the sum of the memory of all members. Itholds the memory of the largest member only.In union, we can access only one variable at a time as it allocates one commonspace for all the members of a union.
